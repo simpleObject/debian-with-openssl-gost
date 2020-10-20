@@ -1,2 +1,2 @@
-# debian-with-openssl-gost
+# docker-debian-with-openssl-gost
 Docker debian images with openssl gost
